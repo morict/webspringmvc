@@ -24,6 +24,7 @@ import kr.or.nextit.common.util.PagingUtil;
 import kr.or.nextit.member.model.Member;
 
 // 주석 추가
+// 주석 추가2
 @Controller
 @RequestMapping("/board")
 public class BoardController {
