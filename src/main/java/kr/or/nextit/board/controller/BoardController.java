@@ -23,6 +23,7 @@ import kr.or.nextit.common.file.service.FileItemService;
 import kr.or.nextit.common.util.PagingUtil;
 import kr.or.nextit.member.model.Member;
 
+// 주석 추가
 @Controller
 @RequestMapping("/board")
 public class BoardController {
